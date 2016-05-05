@@ -33,7 +33,9 @@ public class DKTNew extends PerfDB {
 	//public static void main() throws InstantiationException, IllegalAccessException, ClassNotFoundException, SQLException, InterruptedException{
 		
 		System.out.println("First check");
-		
+		System.out.println("jlkjkj");
+		System.out.println("kjkjk");
+			
 		WebDriver driver;
 		String expStr1 = "Customer Charter";
 		String expStr2 = "Do it online";
